@@ -1,1 +1,6 @@
 C:\Users\alexf\Documents\GitHub\Cherwell_Coding_Question\Cherwell_Coding_Question\bin\Debug\Cherwell_Coding_Question.exe.config
+C:\Users\alexf\Documents\GitHub\Cherwell_Coding_Question\Cherwell_Coding_Question\bin\Debug\Cherwell_Coding_Question.exe
+C:\Users\alexf\Documents\GitHub\Cherwell_Coding_Question\Cherwell_Coding_Question\bin\Debug\Cherwell_Coding_Question.pdb
+C:\Users\alexf\Documents\GitHub\Cherwell_Coding_Question\Cherwell_Coding_Question\obj\Debug\Cherwell_Coding_Question.csprojResolveAssemblyReference.cache
+C:\Users\alexf\Documents\GitHub\Cherwell_Coding_Question\Cherwell_Coding_Question\obj\Debug\Cherwell_Coding_Question.exe
+C:\Users\alexf\Documents\GitHub\Cherwell_Coding_Question\Cherwell_Coding_Question\obj\Debug\Cherwell_Coding_Question.pdb

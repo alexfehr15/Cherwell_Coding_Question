@@ -1,0 +1,24 @@
+Assumptions:
+1) I interpret this problem as the need to determine a vertex coordinate system that can be used to identify a right triangle by it's row/column. 
+2) I do not see an issue with multiple combinations of vertex coordinates mapping to the same row/column as long as they all also map to the same pixel coordinates.
+
+Description of Solution:
+Since assigning a coordinate system to the image made up of right triangles is essentially an arbitrary choice, I structured my coordinate system by fitting it to the mystery triangle on the second page's requirements. This triangle required that both 1 and 2 must be in the same column on the x axis. This triangle also required that both 1 and 3 must be in the same row on the y axis. In this way, I came up with the following coordinate system where each axis label below is spaced out by 10 pixels:
+
+10/12
+
+9/11
+
+6/8
+
+5/7
+
+2/4
+
+1/3
+
+0	1/2	3/4	5/6	7/8	9/10	11/12	
+
+Using this coordinate system, the mystery triangle with coordinates (1, 1), (2, 2), and (3,3) corresponds to row/column E3. 
+
+Also in this GitHub repository is a Visual Studio C# project representing this coding question. The user can search the image for a right triangle either by pixel coordinates or vertex coordinates. Note: I would typically comment my code and, in general, make things much more robust.
